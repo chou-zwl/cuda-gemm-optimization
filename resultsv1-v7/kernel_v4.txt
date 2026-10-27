@@ -1,0 +1,2 @@
+VARIANT=4 M=256 N=256 K=256 bad=0 max_abs=1.04308e-06 max_rel=8.44456e-05
+custom_ms=0.0385 cublas_ms=0.0100 custom_GFLOPS=871.7212 cublas_GFLOPS=3343.6735 ratio_custom_over_cublas=0.2607

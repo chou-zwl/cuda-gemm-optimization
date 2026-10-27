@@ -1,0 +1,6 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z22matmul_sm_doubleBufferILi64ELi64ELi8ELi32ELi32ELi2ELi1ELi4ELi4EEvPKfS1_Pfiii' for 'sm_86'
+ptxas info    : Function properties for _Z22matmul_sm_doubleBufferILi64ELi64ELi8ELi32ELi32ELi2ELi1ELi4ELi4EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 71 registers, used 1 barriers, 8192 bytes smem, 388 bytes cmem[0]
+ptxas info    : Compile time = 39.859 ms

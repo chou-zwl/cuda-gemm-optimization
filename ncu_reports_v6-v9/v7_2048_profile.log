@@ -1,0 +1,6 @@
+==PROF== Connected to process 5422 (/root/GEMM_3/benchmark_v7)
+==PROF== Profiling "matmul_async_doubleBuffer": 0%....50%....100% - 14 passes
+VARIANT=7 M=2048 N=2048 K=2048 bad=0 max_abs=2.41399e-06 max_rel=0.457029
+custom_ms=1.1259 cublas_ms=0.7330 custom_GFLOPS=15258.2575 cublas_GFLOPS=23438.7396 ratio_custom_over_cublas=0.6510
+==PROF== Disconnected from process 5422
+==PROF== Report: /root/GEMM_3/results_vm/ncu_reports/v7_2048_full.ncu-rep

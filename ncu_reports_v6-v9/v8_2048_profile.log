@@ -1,0 +1,6 @@
+==PROF== Connected to process 5474 (/root/GEMM_3/benchmark_v8)
+==PROF== Profiling "matmul_bankasync_doubleBuffer": 0%....50%....100% - 14 passes
+VARIANT=8 M=2048 N=2048 K=2048 bad=0 max_abs=2.41399e-06 max_rel=0.457029
+custom_ms=0.9968 cublas_ms=0.7369 custom_GFLOPS=17235.3365 cublas_GFLOPS=23314.6412 ratio_custom_over_cublas=0.7392
+==PROF== Disconnected from process 5474
+==PROF== Report: /root/GEMM_3/results_vm/ncu_reports/v8_2048_full.ncu-rep

@@ -1,0 +1,2 @@
+VARIANT=2 M=512 N=512 K=512 bad=0 max_abs=4.29153e-06 max_rel=0.000958547
+custom_ms=0.1572 cublas_ms=0.0299 custom_GFLOPS=1707.1112 cublas_GFLOPS=8989.8488 ratio_custom_over_cublas=0.1899
